@@ -1,0 +1,5 @@
+1. so sánh ART và Dalvik virtual machine?
+
+2. Tìm hiểu và giải thích typical flow của Android? 
+
+3. Tìm hiểu và giải thích Hardware Abstraction Layer (HAL) trong kiến trúc của Android?

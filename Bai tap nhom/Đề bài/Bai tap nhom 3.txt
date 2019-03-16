@@ -1,0 +1,1 @@
+Chạy (kèm phần giải thích từng function) source code  ở Week 3 và Week 4. Các nhóm chụp màn hình và lưu vào file word với tên MSSV1_MSSV2_MSSV3_MSSV4.docx. Trong đó, đối với những bài mà nhóm không thực thi được, nhóm cần chụp lại màn hình báo lỗi.
